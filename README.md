@@ -13,9 +13,9 @@ Demo https://r.tiye.me/webcityim/wattice/ .
 
 演示视频 https://www.bilibili.com/video/BV1Sg41177sN/ .
 
-### Calcit 0.45.1
+### Calcit 0.46.0
 
-构建需要 Calcit 和 `@calcit/procs` 0.45.1。同仓库 PR 检查、构建并上传独立 COS 预览；服务器部署仅在主分支推送时执行。
+构建需要 Calcit 和 `@calcit/procs` 0.46.0。同仓库 PR 检查、构建并上传独立 COS 预览；服务器部署仅在主分支推送时执行。
 
 ### Usages
 
